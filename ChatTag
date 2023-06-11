@@ -1,0 +1,13 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua", true))()
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Config Creator";
+    Text = "Config made By kidtoxic#8592 and Flame_Allen#6009"; 
+    Duration = 5;
+})
+wait(1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "BedrockWare config for Vape V4";
+    Text = "Private Edition"; 
+    Duration = 5;
+})
+repeat task.wait() until shared.GuiLibrary pcall(loadstring(readfile("vape/CustomModules/chattags.lua"))) 
