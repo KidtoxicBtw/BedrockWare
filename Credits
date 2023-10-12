@@ -6,7 +6,7 @@ game.StarterGui:SetCore("SendNotification", {
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
-    Title = "BedrockWare config for Vape V4";
+    Title = "Borion config for Vape V4";
     Text = "Public Edition"; 
     Duration = 5;
 })
