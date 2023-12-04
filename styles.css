@@ -46,7 +46,7 @@ nav li a {
     cursor: pointer;
 }
 nav li a:hover {
-    background-color: darkolivegreen;
+    background-color: red;
 }
 nav li a:active {
     background-color: brown;
@@ -73,7 +73,7 @@ nav li a:active {
     border-radius: 10px;
 }
 .button-1 a:active {
-    background-color: lightblue;
+    background-color: red;
     border: 1px solid black;
 }
 .button-1 a:hover {
