@@ -1,12 +1,12 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vodxn/sape/main/Initiate.lua", true))()
 game.StarterGui:SetCore("SendNotification", {
     Title = "Config Creator";
-    Text = "Config made By .kidtoxic and allen86521"; 
+    Text = "Config made By kidtoxicyt and allen86521"; 
     Duration = 5;
 })
 wait(1)
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Borion config for Vape V4";
+    Title = "BedrockWare config for Vape V4";
     Text = "Public Edition"; 
     Duration = 5;
 })
